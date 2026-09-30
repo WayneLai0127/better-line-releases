@@ -9,6 +9,17 @@ LINE only shows the newest message of each chat in its notifications. Better Lin
 > 非 LINE 官方 app，與 LINE / LY Corporation 無關。LINE 是 LY Corporation 的商標。
 > Not affiliated with LINE or LY Corporation. LINE is a trademark of LY Corporation.
 
+## 畫面 Screenshots
+
+<p>
+<img src="images/screenshots/0-notification.png" width="200" alt="Stacked notification">
+<img src="images/screenshots/1-home.png" width="200" alt="Home">
+<img src="images/screenshots/2-chats-modes.png" width="200" alt="Per-chat modes">
+<img src="images/screenshots/3-settings.png" width="200" alt="Settings">
+</p>
+
+（示範資料，非真實對話 · Demo data, not real chats）
+
 ## 下載 Download
 
 到 [Releases](../../releases/latest) 下載最新的 `BetterLineNotification-x.y.z.apk`。需要 Android 8.0 以上。
